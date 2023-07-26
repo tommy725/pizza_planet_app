@@ -20,7 +20,7 @@ User Authentication in app is done using Firebase's Phone Authentication is used
 ## Getting Started
 
 To set up and run this Flutter application, follow these steps:
-
+ 
 1. Open the folder in which you want to clone the repository
 2. Clone the github repository using `git clone https://github.com/Asharma538/pizza_planet_app.git`
 3. Run `cd pizza_planet`
