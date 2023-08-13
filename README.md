@@ -5,7 +5,7 @@
 [![Razorpay](https://img.shields.io/badge/razorpay-1.2.6-red.svg)](https://pub.dev/packages/razorpay_flutter)
 
 ## About
-
+ 
 This is a food delivery application made in Flutter, using which users can order food items from Pizza Planet restaurant online.
 Firestore is used in the app as its database to store menu items, their descriptions and images. 
 For secure online transactions Razorpay's payment gateway is used.
